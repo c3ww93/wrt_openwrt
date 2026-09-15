@@ -102,7 +102,6 @@ stage_pre_install_source_fixes() {
     update_ath11k_fw
     # fix_mkpkg_format_invalid
     change_cpuusage
-    update_tcping
     add_ax6600_led
     set_custom_task
     update_nss_pbuf_performance
